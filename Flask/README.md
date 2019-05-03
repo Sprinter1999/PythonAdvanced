@@ -1,21 +1,4 @@
-## 说明
 本教程翻译自[Miguel Grinberg的blog](https://blog.miguelgrinberg.com)的[2017年新版The Flask Mega-Tutorial教程](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)，以供英语能力较弱的开发人员参考。感谢Miguel Grinberg！
-
-全部二十三章都已完成翻译，如果有任何版权问题，请联系luhuisicnu@163.com。
-
-如果有任何技术疑问，欢迎加入QQ群（484327418）讨论。
-
-如果您认为从本教程中有所收获，并且乐意贡献，可通过如下方式：
-
-1. 提交pull requests
-
-欢迎大家共同对译文进行勘误和原文更新部分的添加。
-
-2. 分享传播
-
-欢迎大家分享本教程给更多人，一起讨论学习和提高。
-
-
 ## 目录
 * [第一章：Hello, World!](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh/blob/master/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9AHello%2C%20World!.md)
 * [第二章：模板](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh/blob/master/docs/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E6%A8%A1%E6%9D%BF.md)
