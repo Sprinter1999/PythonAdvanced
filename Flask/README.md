@@ -1,3 +1,4 @@
+**以下是额外的学习资料参考以及相应链接**
 [Miguel Grinberg的blog](https://blog.miguelgrinberg.com)的[2017年新版The Flask Mega-Tutorial教程](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 ## 目录
 * [第一章：Hello, World!](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh/blob/master/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9AHello%2C%20World!.md)
