@@ -11,7 +11,9 @@ import matplotlib.pyplot as plt
 import sklearn
 import tensorflow as tf
 
-print("numpy ",np.__version__)
-print("tensorflow ",tf.__version__)
-print("keras ",keras.__version__)
-print("Let's dive into Deeep learning")
+# print("numpy ",np.__version__)
+# print("tensorflow ",tf.__version__)
+# print("keras ",keras.__version__)
+# print("Let's dive into Deeep learning")
+
+dir(keras)
