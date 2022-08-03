@@ -1,2 +1,2 @@
-# PythonAdvanced (Python course practica src@BUPT-CS)
-Higher Practica using Python
+# PythonAdvanced
+Higher Practica using Python (course practica src@BUPT-CS)
